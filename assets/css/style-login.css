@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* NAVIGASI */
+
+.nav-item {
+  margin-right: 10px;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.navbar-nav img {
+  width: 5px;
+  height: 5px;
+}
+
+.navbar .collapse .navbar-nav .nav-link {
+  font-style: normal;
+  color: #170047;
+  font-size: 15px;
+}
+
+.navbar .collapse .navbar-nav .nav-link:hover {
+  color: #4b04e3;
+  font-weight: bold;
+}
+
+.navbar-collapse .btn {
+  background-color: #320199;
+  font-size: 14px;
+  width: 120px;
+  height: 45px;
+  border-radius: 10px;
+}
+
+.navbar-collapse .btn:hover {
+  background: #1e005e;
+}
+
+.navbar-fixed-top {
+  background-color: #fff !important;
+  transition: 200ms linear;
+}
+
+/* Jumbotron */
+.jumbotron {
+  background: white !important;
+}
+
+.jumbotron .page-auth {
+  margin-top: 100px;
+}
+.container {
+  align-content: center;
+}
+
+.jumbotron .page-auth h2 {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 42px;
+  color: #0c0d36;
+}
+
+.jumbotron .page-auth label {
+  font-size: 16px;
+  line-height: 24px;
+  color: #0c0d36;
+}
+
+.jumbotron .page-auth .btn {
+  background: #320199;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.jumbotron .page-auth .btn:hover {
+  background: #1e005e;
+}
+
+/* footer */
+footer {
+  background: #320199;
+  margin-top: 150px;
+  padding-top: 1px;
+  color: white;
+}
+
+footer .logo {
+  margin-top: 100px;
+}
+
+footer .desc .desc-doktermo p {
+  margin-top: 10px;
+  font-size: 36px;
+  line-height: 24px;
+}
+
+footer .company .text-company a {
+  color: white;
+}
+
+footer .satu ul {
+  padding-top: 88px;
+}
+
+footer .sosial img {
+  width: 32px;
+  height: 32px;
+}

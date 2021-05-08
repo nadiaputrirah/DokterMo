@@ -1,0 +1,250 @@
+.img {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 48px;
+  top: 31px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}
+
+.rectangel12 {
+  position: absolute;
+  width: 250px;
+  height: 826px;
+  left: 0px;
+  top: 0px;
+
+  background: #fefefe;
+  box-shadow: 0px 4px 15px #f1f1f8;
+}
+
+.box-jasa {
+  position: absolute;
+  width: 250px;
+  height: 40px;
+  left: 0px;
+  top: 210px;
+
+  background: #320199;
+  background: linear-gradient(
+    270deg,
+    rgba(75, 4, 227, 0.19) 2%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+.dash {
+  position: absolute;
+  width: 90.48px;
+  height: 5px;
+  left: 28.01px;
+  bottom: 12px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* identical to box height */
+
+  color: #0c0d36;
+}
+
+.box-2 {
+  position: absolute;
+  width: 4.31px;
+  height: 40px;
+  left: 246px;
+  top: 194px;
+
+  background: #320199;
+}
+
+.konsul {
+  position: absolute;
+  width: 120px;
+  height: 24px;
+  left: 28px;
+  top: 253px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #c5c5c5;
+}
+
+.jasa {
+  position: absolute;
+  width: 119px;
+  height: 24px;
+  left: 28px;
+  top: 291px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* identical to box height */
+
+  color: #c5c5c5;
+}
+
+.akun {
+  position: absolute;
+  width: 84px;
+  height: 24px;
+  left: 28px;
+  top: 329px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* identical to box height */
+
+  color: #c5c5c5;
+}
+
+.sign {
+  position: absolute;
+  width: 84px;
+  height: 24px;
+  left: 28px;
+  top: 650px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* identical to box height */
+
+  color: #c5c5c5;
+}
+
+.dash-2 {
+  position: absolute;
+  width: 135px;
+  height: 36px;
+  left: 282px;
+  top: 19px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #0c0d36;
+}
+
+.selamat {
+  position: absolute;
+  width: 297px;
+  height: 24px;
+  left: 282px;
+  top: 61px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* identical to box height */
+
+  color: #9191a9;
+}
+
+.img-2 {
+  position: absolute;
+  width: 120px;
+  height: 138px;
+  left: 311px;
+  top: 139px;
+}
+
+.konsul-2 {
+  position: absolute;
+  width: 123px;
+  height: 33px;
+  left: 314px;
+  top: 282px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #170047;
+}
+
+.dapat {
+  position: absolute;
+  width: 133px;
+  height: 40px;
+  left: 310px;
+  top: 313px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+
+  color: rgba(23, 0, 71, 0.83);
+}
+
+.rectangel1 {
+  position: absolute;
+  width: 96px;
+  height: 29px;
+  left: 329px;
+  top: 358px;
+
+  background: #ffe601;
+  border-radius: 5px;
+}
+
+.content-rincian .card-content {
+  width: 712px;
+  height: 292px;
+  margin-left: 300px;
+  margin-top: 220px;
+  border: 1px solid #320199;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}
+
+.content-rincian .card-body {
+  margin-top: 30px;
+}
+
+.content-rincian .card-body h5 {
+  font-size: 28px;
+  line-height: 52px;
+  color: #170047;
+  font-family: "Poppins", sans-serif;
+}
+
+.content-rincian .card-body a {
+  background: #320199;
+  border-radius: 8px;
+  width: 156px;
+  height: 46px;
+}
